@@ -253,7 +253,7 @@ export default function Historial() {
         </button>
         <div className="flex items-center gap-2">
           <img src="/logito.png" alt="Logo" className="w-8 h-8 object-contain" />
-          <span className="font-bold text-lg">Dulce Dosis</span>
+          <span className="font-bold text-lg">Dosify</span>
         </div>
         <div className="w-10"></div>
       </div>
@@ -293,7 +293,7 @@ export default function Historial() {
                 className="w-12 h-12 object-contain drop-shadow-xl"
               />
             </div>
-            <h1 className="text-2xl font-bold">Dulce Dosis</h1>
+            <h1 className="text-2xl font-bold">Dosify</h1>
           </div>
           <p className="text-emerald-200 text-sm ml-1">Gestión de medicamentos</p>
         </div>

@@ -53,7 +53,7 @@ export default function Sidebar() {
               className="w-12 h-12 object-contain drop-shadow-xl"
             />
           </div>
-          <h1 className="text-2xl font-bold">Dulce Dosis</h1>
+          <h1 className="text-2xl font-bold">Dosify</h1>
         </div>
         <p className="text-emerald-200 text-sm ml-1">Gestión de medicamentos</p>
       </div>
