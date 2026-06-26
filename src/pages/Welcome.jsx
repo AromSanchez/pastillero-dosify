@@ -12,12 +12,7 @@ export default function Welcome() {
           <img
             src="/logito.png"
             alt="Ícono Dulce Dosis"
-            className="w-48 h-48 object-contain drop-shadow-xl"
-          />
-          <img
-            src="/dulce.png"
-            alt="Texto Dulce Dosis"
-            className="mt-0 w-60 object-contain"
+            className="w-50 object-contain drop-shadow-xl"
           />
         </div>
 
